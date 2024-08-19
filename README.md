@@ -1,4 +1,3 @@
-# problem-solving
-Programming problem solving from online judges  
+# Programming problem-solving from online judges  
 
-LeetCode, HackerRank, HackerEarth, Codewars, Codeforces etc.  
+LeetCode, HackerRank, HackerEarth, Codewars, Codeforces  
