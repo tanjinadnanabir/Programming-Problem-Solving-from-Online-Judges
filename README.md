@@ -21,7 +21,7 @@ LeetCode, HackerRank, HackerEarth, Codewars, Codeforces
 
 ### Exercism - https://exercism.org/
 
-### Codewars - https://www.codewars.com/dashboard
+### Codewars - https://www.codewars.com/
 
 ### Codeforces - https://codeforces.com/
 
