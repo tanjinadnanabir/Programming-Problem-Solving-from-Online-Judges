@@ -1,6 +1,10 @@
 # Programming problem-solving from online judges  
 
-LeetCode, HackerRank, HackerEarth, Codewars, Codeforces  
+### Khan Academy Math - https://www.khanacademy.org/math
+
+### Geeks for Geeks - https://www.geeksforgeeks.org/
+
+### FreeCodeCamp - https://www.freecodecamp.org/
 
 ### HackerRank - https://www.hackerrank.com/
 - 30 Days of Code
@@ -36,7 +40,5 @@ LeetCode, HackerRank, HackerEarth, Codewars, Codeforces
 ### AtCoder - https://atcoder.jp/
 
 ### toph - https://toph.co/
-
-### FreeCodeCamp - https://www.freecodecamp.org/
 
 ### Rosalind (Bioinformatics) - https://rosalind.info/
