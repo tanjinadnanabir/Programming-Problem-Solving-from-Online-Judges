@@ -10,8 +10,16 @@
 - 30 Days of Code
 - 10 Days of Statistics
 - 10 Days of Javascript
+- Interview Preparation Kits
+- Skill Certifications 
 
 ### HackerEarth - https://www.hackerearth.com/
+- Basic Programming
+- Codemonk
+- Interview Prep
+- Data Structure
+- Algorithms
+- Math
 
 ### ProjectEuler - https://projecteuler.net/
 
