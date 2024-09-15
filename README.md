@@ -29,6 +29,8 @@
 
 ### Codeforces - https://codeforces.com/
 
+- For Beginners - ICPC Assiut University Community - https://codeforces.com/group/MWSDmqGsZm/contests
+
 ### Codechef - https://www.codechef.com/
 
 ### Coderbyte - https://coderbyte.com/
