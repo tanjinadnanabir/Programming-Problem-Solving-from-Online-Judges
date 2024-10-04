@@ -23,6 +23,13 @@
 
 ### ProjectEuler - https://projecteuler.net/
 
+### Codeforces - https://codeforces.com/
+- For Beginners - ICPC Assiut University Community - https://codeforces.com/group/MWSDmqGsZm/contests
+
+### Codechef - https://www.codechef.com/
+- Competitive Programming roadmap - Become 5 star - https://www.codechef.com/roadmap/become-5-star
+- Learn Data Structures and Algorithms - Roadmap - https://www.codechef.com/roadmap/data-structures-and-algorithms
+
 ### LeetCode - https://leetcode.com/
 
 ### LightOJ - https://lightoj.com/
@@ -34,12 +41,6 @@
 ### Exercism - https://exercism.org/
 
 ### Codewars - https://www.codewars.com/
-
-### Codeforces - https://codeforces.com/
-
-- For Beginners - ICPC Assiut University Community - https://codeforces.com/group/MWSDmqGsZm/contests
-
-### Codechef - https://www.codechef.com/
 
 ### Coderbyte - https://coderbyte.com/
 
