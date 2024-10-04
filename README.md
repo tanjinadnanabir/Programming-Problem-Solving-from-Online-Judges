@@ -1,9 +1,5 @@
 # Programming problem-solving from online judges  
 
-### Khan Academy Math - https://www.khanacademy.org/math
-
-### Geeks for Geeks - https://www.geeksforgeeks.org/
-
 ### FreeCodeCamp - https://www.freecodecamp.org/
 
 ### HackerRank - https://www.hackerrank.com/
@@ -51,5 +47,9 @@
 ### AtCoder - https://atcoder.jp/
 
 ### toph - https://toph.co/
+
+### Geeks for Geeks - https://www.geeksforgeeks.org/
+
+### InterviewBit - https://www.interviewbit.com/practice/
 
 ### Rosalind (Bioinformatics) - https://rosalind.info/
